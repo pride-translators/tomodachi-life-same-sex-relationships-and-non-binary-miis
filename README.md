@@ -1,5 +1,5 @@
 ---
-title: "친구모아 아일랜드 두근두근 라이프"는 동성 관계와 논바이너리 미를 허용한다"
+title: "'친구모아 아일랜드 두근두근 라이프'는 동성 관계와 논바이너리 미를 허용한다"
 excerpt: "친구모아 팬들은 오늘 축하할 거리가 많다. 친구모아 아일랜드 두근두근 라이프의 출시일 공개와 더불어, 닌텐도는 플레이어가 새로 출시되는 게임에서 논바이너리 미를 생성할 수 있고, 해당 캐릭터의 데이팅 선호를 선택할 수 있다고 확인하였다."
 ---
 
@@ -26,8 +26,6 @@ excerpt: "친구모아 팬들은 오늘 축하할 거리가 많다. 친구모아
 > 이미지: 닌텐도
 
 이는 3DS에서 친구모아 아파트를 즐겼던 많은 팬들에게 있어서 _엄청난_ 승리이다. 해당 작품이 2013년 일본 출시 당시에 적지 않은 비판을 받았기 때문이다. 처음에는, [게임 내에서 동성 결혼이 가능해지는 버그가 발견되었지만](https://www.nintendolife.com/news/2013/05/tomodachi_collection_new_life_features_same_sex_marriage_for_men_but_not_women) 닌텐도가 이후 이를 패치로 제거했다. 닌텐도는 패치 이후 [추가적인 해명](https://www.nintendolife.com/news/2014/04/nintendo_provides_some_context_to_2013s_tomodachi_life_same_sex_marriage_controversy)을 내놓긴 했지만, 원하는 상대와 자유롭게 데이트할 수 없다는 점에 팬들이 실망한 것도 무리는 아니었다.
-
-This prompted the 'Miiquality' social media campaign ahead of the game's Western release, with Nintendo of America addressing [the controversy shortly after](https://www.nintendolife.com/news/2013/05/tomodachi_collection_new_life_features_same_sex_marriage_for_men_but_not_women). Then, two days later, [the company issued an apology](https://www.nintendolife.com/news/2014/05/nintendo_apologises_for_disappointing_many_people_over_tomodachi_life_same_sex_marriage_issue), stating "if we create a next installment in the Tomodachi series, we will strive to design a game-play experience from the ground up that is more inclusive, and better represents all players."
 
 이로 인해 서구권 출시를 앞두고 'Miiquality'라는 SNS 캠페인이 벌어졌고, 닌텐도 오브 아메리카는 [해당 논란에 대한 공식 입장](https://www.nintendolife.com/news/2013/05/tomodachi_collection_new_life_features_same_sex_marriage_for_men_but_not_women)을 밝히게 된다. 그리고 이틀 뒤, [닌텐도는 공식 사과문을 발표하였는데](https://www.nintendolife.com/news/2014/05/nintendo_apologises_for_disappointing_many_people_over_tomodachi_life_same_sex_marriage_issue), 닌텐도는 이 사과문에서 "만약 친구모아 시리즈의 차기작을 만든다면, 처음부터 더 포용적인 게임플레이 경험을 설계하고, 모든 플레이어를 더 잘 대표할 수 있도록 노력하겠다"고 말했다.
 
